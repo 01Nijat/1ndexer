@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\indexer\indexer\bin\Debug\net6.0\indexer.exe
+C:\Users\ASUS\source\repos\indexer\indexer\bin\Debug\net6.0\indexer.deps.json
+C:\Users\ASUS\source\repos\indexer\indexer\bin\Debug\net6.0\indexer.runtimeconfig.json
+C:\Users\ASUS\source\repos\indexer\indexer\bin\Debug\net6.0\indexer.dll
+C:\Users\ASUS\source\repos\indexer\indexer\bin\Debug\net6.0\indexer.pdb
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.dll
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\refint\indexer.dll
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.pdb
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\indexer.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\indexer\indexer\obj\Debug\net6.0\ref\indexer.dll
